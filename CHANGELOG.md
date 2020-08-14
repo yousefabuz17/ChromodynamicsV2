@@ -11,3 +11,7 @@ v0.0.30
 - Decided to add an icon to this theme
 - Forgot to change meta.structure.dictionary to full white for json strings
 
+v0.0.40
+- Removed some useless code that wasn't needed
+- Hopefully fixed the icon image to show properly
+
