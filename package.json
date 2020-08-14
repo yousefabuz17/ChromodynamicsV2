@@ -1,26 +1,26 @@
 {
-"name": "Chromodynamics V2",
-"displayName": "Chromodynamics Theme",
-"description": "A dark color scheme from MagicStack.",
-"theme": "syntax",
-"version": "0.0.14",
-"repository": "https://github.com/MagicStack/Chromodynamics",
-"publisher": "magicstack",
-"license": "MIT",
-"engines": {
-    "atom": ">=1.13.0",
-    "vscode": ">=1.10.0"
-},
-"categories": [
-    "Themes"
-],
-"contributes": {
-    "themes": [
-        {
-            "label": "Chromodynamics",
-            "uiTheme": "vs-dark",
-            "path": "./Chromodynamics.color-theme.json"
-        }
-    ]
-}
-}
+    "name": "chromodynamicsv2",
+    "displayName": "Chromodynamics V2 Theme",
+    "description": "A dark color scheme originally from MagicStack and modified by me.",
+    "theme": "syntax",
+    "version": "0.0.30",
+    "repository": "https://github.com/yousefabuz17/Chromodynamics-V2",
+    "publisher": "yousefabuz17",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.13.0",
+        "vscode": ">=1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ChromodynamicsV2",
+                "uiTheme": "vs-dark",
+                "path": "./Chromodynamics.color-theme.json"
+            }
+        ]
+    }
+    }

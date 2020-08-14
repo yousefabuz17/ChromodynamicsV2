@@ -7,3 +7,7 @@ v0.0.20
 - Fixed a small bug.
 - Uploaded preview screenshots for this theme.
 
+v0.0.30
+- Decided to add an icon to this theme
+- Forgot to change meta.structure.dictionary to full white for json strings
+

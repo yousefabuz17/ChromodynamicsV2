@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Chromodynamics V2</string>
+    <string>ChromodynamicsV2</string>
     <key>settings</key>
     <array>
         <dict>
@@ -416,7 +416,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#CFCFC2</string>
+                <string>#FFFFFF</string>
             </dict>
         </dict>
 
