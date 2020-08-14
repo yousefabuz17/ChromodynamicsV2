@@ -1,0 +1,26 @@
+{
+"name": "Chromodynamics V2",
+"displayName": "Chromodynamics Theme",
+"description": "A dark color scheme from MagicStack.",
+"theme": "syntax",
+"version": "0.0.14",
+"repository": "https://github.com/MagicStack/Chromodynamics",
+"publisher": "magicstack",
+"license": "MIT",
+"engines": {
+    "atom": ">=1.13.0",
+    "vscode": ">=1.10.0"
+},
+"categories": [
+    "Themes"
+],
+"contributes": {
+    "themes": [
+        {
+            "label": "Chromodynamics",
+            "uiTheme": "vs-dark",
+            "path": "./Chromodynamics.color-theme.json"
+        }
+    ]
+}
+}
