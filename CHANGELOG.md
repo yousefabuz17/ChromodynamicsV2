@@ -15,3 +15,11 @@ v0.0.40
 - Removed some useless code that wasn't needed
 - Hopefully fixed the icon image to show properly
 
+v0.0.50
+- Added support.type.exception for its own color (Lighter Blue)
+- Also changed the Inherited class color to lime green instead of default light green
+
+v0.0.60
+- Previous color change was not working properly, hopefully its fixed now.
+
+

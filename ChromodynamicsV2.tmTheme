@@ -255,7 +255,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#A6E22E</string>
+                <string>#00FF7F</string>
             </dict>
         </dict>
         <dict>
@@ -356,6 +356,17 @@
             <dict>
                 <key>foreground</key>
                 <string>#0000FF</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Library class/type</string>
+            <key>scope</key>
+            <string>support.type.exception</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#3364FF</string>
             </dict>
         </dict>
         <dict>
