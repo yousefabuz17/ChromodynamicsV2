@@ -4,7 +4,7 @@
     "description": "A dark color scheme originally from MagicStack and modified by me.",
     "icon": "images/chromo.png",
     "theme": "syntax",
-    "version": "0.0.60",
+    "version": "0.0.105",
     "repository": "https://github.com/yousefabuz17/Chromodynamics-V2",
     "publisher": "yousefabuz17",
     "license": "MIT",
@@ -23,5 +23,8 @@
                 "path": "./Chromodynamics.color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.97.0"
     }
-    }
+}
