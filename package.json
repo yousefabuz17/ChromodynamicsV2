@@ -1,10 +1,10 @@
 {
     "name": "chromodynamicsv2",
     "displayName": "Chromodynamics V2 Theme",
-    "description": "A dark color scheme originally from MagicStack and modified by me.",
+    "description": "A dark color scheme.",
     "icon": "images/chromo.png",
     "theme": "syntax",
-    "version": "0.0.105",
+    "version": "0.0.106",
     "repository": "https://github.com/yousefabuz17/Chromodynamics-V2",
     "publisher": "yousefabuz17",
     "license": "MIT",

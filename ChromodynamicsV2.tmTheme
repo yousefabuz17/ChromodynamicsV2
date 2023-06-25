@@ -132,7 +132,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#66D9EF</string>
+                <string>#00FFFF</string>
             </dict>
         </dict>
         <dict>
@@ -143,7 +143,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#8A2BE2</string>
+                <string>#9932CC</string>
             </dict>
         </dict>
         <dict>
@@ -154,7 +154,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#8A2BE2</string>
+                <string>#9932CC</string>
             </dict>
         </dict>
         <dict>
@@ -165,7 +165,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#8A2BE2</string>
+                <string>#9932CC</string>
             </dict>
         </dict>
         <dict>
@@ -211,7 +211,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#e8364f</string>
+                <string>#FF0000</string>
             </dict>
         </dict>
         <dict>
@@ -255,7 +255,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#00FF7F</string>
+                <string>#FF0000</string>
             </dict>
         </dict>
         <dict>
@@ -269,6 +269,19 @@
                 <string></string>
                 <key>foreground</key>
                 <string>#00FF00</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Function name</string>
+            <key>scope</key>
+            <string>entity.name.function.decorator</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#00c3ff</string>
             </dict>
         </dict>
         <dict>
@@ -323,6 +336,32 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Tag attribute</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.class</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#ADFF2F</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Tag attribute</string>
+            <key>scope</key>
+            <string>entity.other.attribute-name.id</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#C0C0C0</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Library function</string>
             <key>scope</key>
             <string>support.function</string>
@@ -344,7 +383,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#66D9EF</string>
+                <string>#00FFFF</string>
             </dict>
         </dict>
         <dict>
@@ -355,7 +394,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#0000FF</string>
+                <string>#336EFF</string>
             </dict>
         </dict>
         <dict>
@@ -377,7 +416,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#66D9EF</string>
+                <string>#00FFFF</string>
             </dict>
         </dict>
         <dict>
@@ -450,7 +489,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#e8364f</string>
+                <string>#FF0000</string>
             </dict>
         </dict>
         <dict>

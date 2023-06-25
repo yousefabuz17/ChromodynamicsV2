@@ -46,3 +46,6 @@ v0.0.104
 v0.0.105
 - Added support for all file types including csv, json, xml, yml, html, txt, md, and css
 - Fixed minor hidden bugs
+
+v0.0.106
+- v0.0.105 contained a bug that caused some users theme to not be generated (Fixed).
