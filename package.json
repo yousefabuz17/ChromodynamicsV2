@@ -4,7 +4,7 @@
   "description": "A dark color scheme.",
   "icon": "images/chromo.png",
   "theme": "syntax",
-  "version": "0.0.106",
+  "version": "0.0.107",
   "repository": "https://github.com/yousefabuz17/Chromodynamics-V2",
   "publisher": "yousefabuz17",
   "license": "MIT",
@@ -20,7 +20,7 @@
         {
             "label": "ChromodynamicsV2",
             "uiTheme": "vs-dark",
-            "path": "./Chromodynamics.color-theme.json"
+            "path": "./ChromodynamicsV2.color-theme.json"
         }
     ]
   }

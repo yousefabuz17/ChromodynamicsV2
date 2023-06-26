@@ -49,3 +49,9 @@ v0.0.105
 
 v0.0.106
 - v0.0.105 contained a bug that caused some users theme to not be generated (Fixed).
+
+v0.0.107
+- Went complete dark mode
+- Added tab border colors
+- Terminal is fully dark along with border color
+- Compatible with other IDE's including Atom and SublimeText
