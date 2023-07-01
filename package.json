@@ -1,13 +1,12 @@
 {
-  "name": "chromodynamicsv2",
-  "displayName": "Chromodynamics V2 Theme",
-  "description": "A dark color scheme.",
-  "icon": "images/chromo.png",
+  "name": "darkabyss",
+  "displayName": "DarkAbyss Theme",
+  "description": "Dark mode with vibrant colors.",
+  "icon": "images/icon.png",
   "theme": "syntax",
-  "version": "0.0.107",
-  "repository": "https://github.com/yousefabuz17/Chromodynamics-V2",
+  "version": "0.0.108",
+  "repository": "https://github.com/yousefabuz17/DarkAbyss",
   "publisher": "yousefabuz17",
-  "license": "MIT",
   "engines": {
     "atom": ">=1.13.0",
     "vscode": ">=1.10.0"
@@ -18,9 +17,9 @@
   "contributes": {
     "themes": [
         {
-            "label": "ChromodynamicsV2",
+            "label": "DarkAbyss",
             "uiTheme": "vs-dark",
-            "path": "./ChromodynamicsV2.color-theme.json"
+            "path": "./DarkAbyss.color-theme.json"
         }
     ]
   }

@@ -55,3 +55,7 @@ v0.0.107
 - Added tab border colors
 - Terminal is fully dark along with border color
 - Compatible with other IDE's including Atom and SublimeText
+
+v0.0.108
+- Fixed a bug that caused the theme to not work properly
+- Fixed decorator color to be more visible
