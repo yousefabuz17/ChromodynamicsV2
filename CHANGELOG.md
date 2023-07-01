@@ -59,3 +59,6 @@ v0.0.107
 v0.0.108
 - Fixed a bug that caused the theme to not work properly
 - Fixed decorator color to be more visible
+
+v0.0.109
+- Error on my end. Quickly fixed.
