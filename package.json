@@ -1,0 +1,26 @@
+{
+  "name": "chromodynamicsv2",
+  "displayName": "ChromodynamicsV2 Theme",
+  "description": "Dark mode with vibrant colors.",
+  "icon": "images/chromo.png",
+  "theme": "syntax",
+  "version": "0.0.109",
+  "repository": "https://github.com/yousefabuz17/ChromodynamicsV2",
+  "publisher": "yousefabuz17",
+  "engines": {
+    "atom": ">=1.13.0",
+    "vscode": ">=1.10.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+        {
+            "label": "ChromodynamicsV2",
+            "uiTheme": "vs-dark",
+            "path": "./ChromodynamicsV2.color-theme.json"
+        }
+    ]
+  }
+}
