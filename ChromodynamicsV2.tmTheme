@@ -286,6 +286,32 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Decorator symbol</string>
+            <key>scope</key>
+            <string>punctuation.definition.decorator.python</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FF0000</string>
+                <key>fontStyle</key>
+                <string>italic</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Decorator name</string>
+            <key>scope</key>
+            <string>entity.name.function.decorator.python</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#00FFFF</string>
+                <key>fontStyle</key>
+                <string>italic</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Function argument</string>
             <key>scope</key>
             <string>variable.parameter</string>
